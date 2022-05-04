@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LabhamGupta
+- 👋 Hi, I’m Labham Gupta
 
 
 <!---
